@@ -1,4 +1,5 @@
 <?php
-header("Location: https://www.mcafee.com/enterprise/en-us/solutions/gdpr.html");
+header("Location: https://www.mcafee.com/consumer/en-gb/store/m0/catalog/msc_558/mcafee-safe-connect.html
+");
 die();
 ?>
