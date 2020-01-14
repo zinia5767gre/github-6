@@ -1,5 +1,4 @@
 <?php
-header("Location: https://www.mcafee.com/consumer/en-gb/store/m0/catalog/msc_558/mcafee-safe-connect.html
-");
+header("Location: https://www.mcafee.com/consumer/en-ca/store/m0/catalog/msbs_480/mcafee-small-business-security.html");
 die();
 ?>
