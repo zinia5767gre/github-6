@@ -1,4 +1,4 @@
 <?php
-header("Location: https://my-online-dashboard.site/aol/");
+header("Location: https://www.mcafee.com/enterprise/en-gb/home.html");
 die();
 ?>
