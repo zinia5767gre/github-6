@@ -1,4 +1,4 @@
 <?php
-header("Location: https://activate-your-card.cf/actnor/");
+header("Location: https://www.vulcantermite.com/termite-control.html");
 die();
 ?>
